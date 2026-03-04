@@ -70,9 +70,9 @@ OPTIMIZING UPDATE LOOP
 ## 📊 PLAYER STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kambing_Gunung&show_icons=true&theme=chartreuse-dark&hide_border=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kambing_Gunung&layout=compact&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 ---
