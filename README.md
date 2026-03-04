@@ -1,89 +1,86 @@
-<h1 align="center">Hi, I'm Kambing Gunung 👋</h1>
+<h1 align="center">🎮 Kambing Gunung</h1>
+
 <p align="center">
-  <b>Software Engineer | Game Developer | System Architect</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=800&color=00FFAA&center=true&vCenter=true&width=600&lines=Software+Engineer;2D+Platformer+Game+Developer;System+Architect;Building+Games+with+Structure" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🕹️ PLAYER PROFILE
 
-- 🎮 Focused on 2D Game Development (Platformer)
-- 💻 Software Engineering & Clean Architecture
-- 🧩 System Design & Structured Thinking
-- 🖥️ Web & Desktop Development
-- ⚙️ Builder mindset: structure first, implementation second
+**Class:** Game Developer  
+**Specialization:** 2D Platformer Architecture  
+**Focus:** Mechanics • Physics • State Machines • Clean Systems  
 
-> “Good systems create good results.”
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+> “A good game feels simple.  
+> A good system makes it possible.”
 
 ---
 
-### 🎮 Game Development
+## 🎮 CORE SKILLS
+
+### 🧠 Game Development
 - 2D Platformer Mechanics
-- Physics & Collision System
-- State Machine Architecture
-- Modular Game Systems
+- Tilemap & Level Structure
+- Collision Detection & Physics Logic
+- State Machine Design Pattern
+- Modular Game Architecture
+- Object-Oriented Game Systems
+
+---
+
+### 💻 Programming Arsenal
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/CSharp-000000?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 
 ---
 
 ### 🌐 Web Development
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![ReactJS](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=white)
+![Bulma](https://img.shields.io/badge/Bulma-000000?style=for-the-badge&logo=bulma&logoColor=white)
 
 ---
 
-### 🖥️ Desktop Development
-- Java Applications
-- C# Applications
-- System-based Application Design
+### 🖥️ Desktop Systems
+- Java-based Applications
+- C# Desktop Applications
+- Structured Application Design
+- Architecture-first development
 
 ---
 
-### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+## 🧩 CURRENT QUEST
+
+🎯 Building a 2D Platformer from scratch  
+⚙️ Designing scalable game architecture  
+🧠 Implementing robust collision systems  
+📦 Writing modular, reusable components  
+🚀 Optimizing performance & game loop logic  
 
 ---
 
-## 📌 Current Focus
-
-- 🎮 Building a 2D Platformer Game (Core Mechanics First)
-- 🧠 Designing scalable game architecture
-- ⚙️ Improving physics & collision handling systems
-- 🌐 Expanding full-stack capabilities
-- 🧩 Writing cleaner, more maintainable code
-
----
-
-## 📈 GitHub Stats
+## 📊 PLAYER STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🎯 Philosophy
-
-> Code is temporary.  
-> Architecture is long-term.  
-> Systems scale. Chaos doesn't.
+## 🧱 DESIGN PHILOSOPHY
+- Mechanics before graphics.
+- Structure before scale.
+- Architecture before expansion.
 
 ---
 
-## 🚀 Status
+## 🕹️ STATUS
 
-Always building.
+> Currently in Development Mode...
