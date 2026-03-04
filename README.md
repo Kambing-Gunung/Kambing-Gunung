@@ -1,23 +1,69 @@
-<div align="center">
-  <h2>°•   -../.-/...-/../-..//.--/.-/..../-.--/..-//...././.-./-../-.--/.-/-./.../-.--/.-/....//   •°</h2>
-  <img src="https://www.itwissen.info/lex-images/Morse-Code.png" width="500px" />
-  <h2></h2>
+<h1 align="center">Hi, I'm Bawe 👋</h1>
+<p align="center">
+  <b>Software Engineer | System Thinker | Field Explorer</b>
+</p>
 
-<div align="center">
-  <h3>===== ABOUT MY SKILLS =====</h3>
-  
-  • Languages •<br>
-  <img src="https://styles.redditmedia.com/t5_2qh6x/styles/communityIcon_xgorujtjrj571.png?width=256&s=12f60b3bcbd6ac2aea90e277b1ff327f91523032" width="50px" />
-  <img src="https://academy.alterra.id/blog/wp-content/uploads/2021/07/Logo-Java.png" width="75px" />
+---
 
-  • IDEs/Editors •<br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" width="40px" />
-  <img src="https://pbs.twimg.com/profile_images/1702270561248792576/3imykMLC_400x400.png" width="50px" />
+## 🧠 About Me
 
-  • Design •<br>
-  <img src="https://www.edigitalagency.com.au/wp-content/uploads/Canva-logo-png-circle-full-colour-white-font.png" width="50px" />
+- 💻 Focused on Software Engineering
+- 📱 Mobile App Development (Flutter)
+- 🗺️ System-based thinking & structured workflow
+- 🏕️ MAPALA Mahitkom – Operational & Safety mindset
+- 🤖 Interested in AI as “Entity”, not just tool
 
-</div>
+> “Build systems that work without depending on people’s mood.”
 
-<h2 align="center"></h2>
+---
 
+## 🛠️ Tech Stack
+
+### 💻 Programming
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### 📱 Framework
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🔧 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+---
+
+## 📌 Current Focus
+
+- 📍 Location-based Task Manager App
+- 🧩 Clean Architecture & System Design
+- 📊 Operational SOP-based workflow modeling
+- 🧠 Structured thinking before coding
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌊 Philosophy
+
+> Discipline beats motivation.  
+> System beats talent.  
+> Structure beats chaos.
+
+---
+
+## 🤝 Connect
+
+- 🌍 Indonesia
+- 🧭 Explorer by field, engineer by mind
