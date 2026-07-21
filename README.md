@@ -1,26 +1,44 @@
 <h1 align="center">🎮 Kambing Gunung</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=800&color=00FFAA&center=true&vCenter=true&width=600&lines=Software+Engineer;2D+Platformer+Game+Developer;System+Architect;Building+Games+with+Structure" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=800&color=00FFAA&center=true&vCenter=true&width=600&lines=Software+Engineer;2D+Platformer+Game+Developer;Building+Scalable+Systems;Building+Games+with+Structure" />
 </p>
 
 ---
 
 ## 👾 ABOUT ME
 
-I'm a software engineer who enjoys building structured systems and exploring creative technology.  
-Currently learning and experimenting with **2D platformer game development**, especially roguelike-style games.
+I'm a Software Engineering student passionate about building scalable applications and designing maintainable systems. I enjoy creating desktop, web, and mobile applications while continuously exploring 2D platformer game development as my long-term specialization.
 
 **Interests:**  
 Mobile Development • Vector Illustration • Street Photography • Creative Design
 
 ---
 
+## 🚀 Featured Projects
+
+### ☕ SiLadhida
+Desktop Point of Sale built with .NET 8, Avalonia UI, and ASP.NET Core Web API.
+
+**Repository →** [☕ SiLadhida](https://github.com/Kambing-Gunung/SiLadhida)
+
+### 🗺️ TaskMap
+Location-based task management mobile application built with Flutter.
+
+**Repository →** [🗺️ TaskMap](https://github.com/Kambing-Gunung/taskmap)
+
+### 📋 TaskManagement
+Trello-inspired task management application using React, Express, and MySQL.
+
+**Repository →** [📋 TaskManagement](https://github.com/Kambing-Gunung/TaskManagement)
+
+---
+
 ## 🕹️ PLAYER PROFILE
 
-**Class:** Game Developer  
-**Specialization:** 2D Platformer Architecture  
-**Focus:** Mechanics • Physics • State Machines • Clean Systems  
+**Class:** Software Engineer  
+**Secondary Class:** 2D Platformer Game Developer  
+**Focus:** System Design • Desktop Applications • Game Architecture • Clean Systems  
 
 > “A good game feels simple.  
 > A good system makes it possible.”
@@ -28,27 +46,6 @@ Mobile Development • Vector Illustration • Street Photography • Creative D
 ---
 
 ## 🎮 CORE SKILLS
-
-### 🧠 Game Development
-
-Currently learning and experimenting with **2D Platformer Roguelike** game design.
-
-Inspirations include games like:
-
-- Dead Cells
-- Skul: The Hero Slayer
-
-Focus areas:
-
-- 2D Platformer Mechanics  
-- Roguelike Game Structure  
-- Tilemap & Level Design  
-- Collision Detection & Physics Logic  
-- State Machine Design Pattern  
-- Modular Game Architecture  
-- Object-Oriented Game Systems  
-
----
 
 ### 💻 Programming Languages
 
@@ -79,12 +76,13 @@ Focus areas:
 
 - JavaFX
 - Java Swing
-- C# Desktop Applications
+- Avalonia UI
 
 ---
 
 ### 🎮 Game Development Tools
 
+- GameMaker Studio
 - Game Maker Language (GML)
 - Aseprite (Pixel Art & Sprite Animation)
 
@@ -98,36 +96,35 @@ Focus areas:
 
 ## 🧩 CURRENT QUEST
 
-🎯 Building a 2D Platformer from scratch  
-⚙️ Designing scalable game architecture  
-🧠 Implementing robust collision systems  
-📦 Writing modular, reusable components  
-🚀 Optimizing performance & game loop logic  
+🎯 Building portfolio-quality software  
+🎮 Learning 2D Platformer Architecture  
+📚 Studying scalable software design  
+🚀 Preparing for software engineering internship  
 
 ---
 
 ## 📊 PLAYER STATS
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kambing-Gunung&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kambing-Gunung&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kambing-Gunung&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Kambing-Gunung&layout=compact&langs_count=6&theme=tokyonight&hide_border=true)](https://github-stats-extended.vercel.app/api/top-langs?username=Kambing-Gunung&layout=compact&langs_count=6&theme=tokyonight&hide_border=true)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Kambing-Gunung&rank_icon=github&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true)](https://github-stats-extended.vercel.app/api?username=Kambing-Gunung&rank_icon=github&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🧱 DESIGN PHILOSOPHY
+- Structure before complexity.
+- Maintainability over shortcuts.
 - Mechanics before graphics.
-- Structure before scale.
-- Architecture before expansion.
+- Build for the future.
 
 ---
 
 ## 🌐 Follow My Social Media
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rizky_febriyanto9)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-rizky-febriyanto-221aa634a/)  
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@duriskifeb)  
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rizkydurfeb976@gmail.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/david.ntb/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-ntb-3639632b1/) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:davidntb7000@gmail.com)  
 
 ---
 
